@@ -1,13 +1,4 @@
 # 荒 (Susabi) — Slay the Spire 2 角色 Mod
-
-<p align="center">
-  <img src="Susabi/images/susabi/character_icon_susabi.png" width="120" alt="荒">
-</p>
-
-<p align="center">
-  <strong>「星辰之力，为我所用。」</strong>
-</p>
-
 ---
 
 ## 简介
