@@ -1,0 +1,25 @@
+{
+
+"id": "Susabi",
+
+"name": "阴阳师神启荒",
+
+"author": "ZTMYkun",
+
+"description": "来自阴阳师的荒",
+
+"version": "v1.0.0",
+
+"has_pck": true,
+
+"has_dll": true,
+
+"dependencies": [    {
+      "id": "BaseLib",
+      "min_version": "3.1.4"
+    }
+],
+
+"affects_gameplay": false
+
+}
