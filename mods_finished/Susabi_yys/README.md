@@ -1,4 +1,5 @@
 # 荒 (Susabi) — Slay the Spire 2 角色 Mod
+# 作者：ZTMYkun B站地址：【杀戮尖塔2新角色mod阴阳师神启荒（预告版）】 https://www.bilibili.com/video/BV1jP7Z6qEse/?share_source=copy_web&vd_source=82a4c95d79a215d31760a161f21cd66b
 ---
 
 ## 简介
@@ -89,7 +90,6 @@ mods/
 
 ---
 
-## 构建（开发者）
 
 ### 依赖
 
