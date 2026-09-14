@@ -1,0 +1,25 @@
+{
+
+"id": "Youtouhime",
+
+"name": "阴阳师妖刀姬",
+
+"author": "ZTMYkun",
+
+"description": "来自阴阳师的妖刀姬",
+
+"version": "v1.0.0",
+
+"has_pck": true,
+
+"has_dll": true,
+
+"dependencies": [    {
+      "id": "BaseLib",
+      "min_version": "3.3.5"
+    } 
+],
+
+"affects_gameplay": false
+
+}
